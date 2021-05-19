@@ -18,6 +18,7 @@ layout: trait
 
 ![icon](/assets/images/trait-icons/{{page.image}})
 
-This trait lets you upgrade a Founder card into an Alpha. When you use this Trait, the Ether Cards team will select an Alpha card out of the vault and deliver it to you in exchange for your Founder card.
+This trait lets you **upgrade a Founder card into an Alpha.** When you use this Trait, the Ether Cards team will select an Alpha card out of the vault and deliver it to you in exchange for your Founder card.
 
-There are 4 levels in the Ether Cards First Edition Series: Founders (9000), Alphas (900), OGs (90) and Creators (10). Each of the levels multiplies the benefits of holding a card like Dust collection, number of Traits, special drops and other features.
+*Terms and conditions apply.
+
