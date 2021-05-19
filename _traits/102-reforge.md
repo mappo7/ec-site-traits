@@ -18,8 +18,8 @@ layout: trait
 
 ![icon](/assets/images/trait-icons/{{page.image}})
 
-Deep in the dark bowels of Mount Ether Cards, there lies a room that rings with the clash of metal and rock. Billowing heat from its heart like a living dragon, the Forge can be a unforgiving place – unless you have this Trait to serve as your shield.
+Deep in the dark bowels of Mount Ether Cards, there lies a room that rings with the clash of metal and rock. Billowing heat from its heart like a living dragon, the Forge can be an unforgiving place – unless you have this Trait to serve as your shield.
 
-The Forge is one of Ether Cards’ utility developments for NFTs. It enables Cards as well as traits to be combined and reconfigured. Here, the Forge is used for recombining layer art. Usually, in order to use the Forge, you would need to burn one of your cards – but this trait gives you the ability to **re-randomize any or all of the layers your card’s accidental artworks without sacrificing a card to the Forge.**
+The Forge is one of Ether Cards’ utility developments for NFTs. It enables Cards as well as traits to be combined and reconfigured. The Forge can initially be used to rearrange or combine layer art from multiple cards. In order to use the Forge, you would need to burn one of your cards – but this trait gives you the ability to **use the Forge’s function once without sacrificing a card to the Forge.**
 
-On the back of each card (and on the front of Founders) is at least one 5-layered “accidental collaboration” piece. Ether Cards commissioned 15 artists to each design a set of layers. Other layers called “commons” feature the Ether Cards diamond. These layers were then combined using Chainlink VRF to produce unique combinatory artworks. Cards with all 5 layers by a single artist, or “Perfects” are some of the most rare and have traded at high premiums. Each combination creates its own vibe. Each vibe is a coordinate in the Ether Cards universe.
+*Terms and conditions apply.*
