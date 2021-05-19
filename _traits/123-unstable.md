@@ -2,7 +2,7 @@
 id: 123
 name: Unstable
 image: PLACEHOLDER.png
-summary: Every time this card changes wallets, one of the Randomized Edition Traits are rerolled
+summary: Every time this card changes wallets, one of the Random Edition Traits are rerolled
 card_types: All
 category: Experimental
 max_issuance: 300
@@ -18,6 +18,8 @@ layout: trait
 
 ![icon](/assets/images/trait-icons/{{page.image}})
 
-*This Trait was proposed by @Eskalexia as part of our first community Trait creation contest.*
+**Community Trait proposed by:** @Eskalexia
 
-Each time this card changes wallets (through being traded on OpenSea or otherwise transferred), one Randomized Edition Trait changes to a different Randomized Edition Trait.
+Each time this card changes wallets **one Random Edition Trait changes to a different Random Edition Trait**.
+
+*Terms and conditions apply.
