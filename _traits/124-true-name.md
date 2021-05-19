@@ -18,6 +18,8 @@ layout: trait
 
 ![icon](/assets/images/trait-icons/{{page.image}})
 
-*This Trait was proposed by @Eskalexia as part of our first community Trait creation contest.*
+**Community Trait proposed by:** @Eskalexia
 
-True Name gives you the ability to give your accidental collaboration artwork a name that will be recorded in the card’s metadata and displayed anywhere that the card appears.
+True Name gives you the ability to **give your accidental collaboration artwork a name** that will be recorded in the card’s metadata and displayed anywhere that the card appears.
+
+*Terms and conditions apply.
