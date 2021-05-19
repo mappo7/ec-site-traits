@@ -18,6 +18,9 @@ layout: trait
 
 ![icon](/assets/images/trait-icons/{{page.image}})
 
-*This Trait was proposed by @OrdoUnivers as part of our first community Trait creation contest.*
+**Community Trait proposed by:** @OrdoUniverse
 
-Burn this trait to receive a physical Ether Cards-themed item in the mail (like an EC hoodie or another surprise). Shipping fees apply.
+Burn this trait to **receive a physical Ether Cards-themed item in the mail** (like an EC hoodie). 
+
+*Terms and conditions apply.
+
