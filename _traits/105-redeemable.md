@@ -18,6 +18,6 @@ layout: trait
 
 ![icon](/assets/images/trait-icons/{{page.image}})
 
-This trait will be redeemable for a physical item in the real world. Plans are still underway, but so far what we know is that it will be something special.
+This trait **unlocks a physical item in the real world.** Plans are still underway, but there are plenty of exciting items that could be assigned to your Trait.
 
-The Ether Cards platform offers tools for connecting NFTs to the real world. This can come in the form of responsive NFTs that change based on real-world actions, admission passes to real-world events, redeemable traits like this one and other customizable features. With the Redeemable trait, you’ll be among the first people in the world to experience this new application.
+*Terms and conditions apply.
