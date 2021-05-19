@@ -18,8 +18,8 @@ layout: trait
 
 ![icon](/assets/images/trait-icons/{{page.image}})
 
-*This Trait was proposed by @mrbrownwhale as part of our first community Trait creation contest.*
+**Community Trait Proposed by:** @mrbrownwhale
 
-This card gives you the ability to select layers in the accidental collaboration artwork(s) on your card and reroll them. With Selective Layer Reroll, you also get higher chances of rolling a “Perfect.” This is a one-time trait and is burned after use.
+This Trait gives you the ability to **select layers in the accidental collaboration artwork(s) on your card and reroll them**. With Selective Layer Reroll, you also get higher chances of rolling a “Perfect.” This is a one-time trait and is burned after use.
 
-On the back of each card (and on the front of Founders) is at least one 5-layered “accidental collaboration” piece. Ether Cards commissioned 15 artists to each design a set of layers. Other layers called “commons” feature the Ether Cards diamond. These layers were then combined using Chainlink VRF to produce unique combinatory artworks. Cards with all 5 layers by a single artist, or “Perfects” are some of the most rare and have traded at high premiums. Each combination creates its own vibe. Each vibe is a coordinate in the Ether Cards universe.
+*Terms and conditions apply.
