@@ -18,6 +18,9 @@ layout: trait
 
 ![icon](/assets/images/trait-icons/{{page.image}})
 
-*This Trait was proposed by @OrdoUniverse as part of our first community Trait creation contest.*
+**Community Trait proposed by:** @OrdoUniverse
 
-Burn this trait to receive a physical version of your Ether Card. Shipping fees apply.
+Burn this trait to **receive a physical version of your Ether Card**. 
+
+*Terms and conditions apply.
+
